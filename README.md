@@ -10,9 +10,9 @@ A collection of assignments covering core Python/data science fundamentals throu
 | 2 | `Assignment_2.ipynb` | Tesla Deliveries — Regression Analysis | EDA, correlation heatmaps, one-hot encoding, Random Forest Regressor, MAE/RMSE/R² evaluation, feature engineering (lag & rolling features), future predictions |
 | 3 | `Assignment_3.ipynb` | Country Clustering (Socio-Economic Data) | EDA, K-Means & DBSCAN clustering, PCA visualization, cluster profiling, identifying countries most in need of aid |
 | 4 | `Assignment4.ipynb` | CIFAR-10 Image Classification | ANN vs CNN comparison, BatchNorm, data augmentation, EarlyStopping, learning curve analysis |
-| 5 | `Assignment_5__1_.ipynb` | Text Generation with RNNs | Vanilla RNN vs LSTM vs GRU, tokenization, n-gram sequence generation, padding, training performance comparison, text generation |
+| 5 | `Assignment_5_.ipynb` | Text Generation with RNNs | Vanilla RNN vs LSTM vs GRU, tokenization, n-gram sequence generation, padding, training performance comparison, text generation |
 | 6 | `Assignment_6.ipynb` | Denoising Autoencoder (MNIST) | Convolutional autoencoder, Gaussian noise injection, latent space interpolation, t-SNE clustering, interactive denoising UI |
-| 7 | `Assignment_7__1_.ipynb` | Retrieval-Augmented Generation (RAG) | LangChain, Sentence Transformers embeddings, FAISS vector DB, document chunking/retrieval, FLAN-T5 for question answering over custom PDFs |
+| 7 | `Assignment_7_.ipynb` | Retrieval-Augmented Generation (RAG) | LangChain, Sentence Transformers embeddings, FAISS vector DB, document chunking/retrieval, FLAN-T5 for question answering over custom PDFs |
 
 ## 🧠 Overview
 
